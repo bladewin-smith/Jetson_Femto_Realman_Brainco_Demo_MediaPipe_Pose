@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.log
+Log/
+rm_demo_terminal_launcher/build/
+.pytest_cache/
+.mypy_cache/
+
